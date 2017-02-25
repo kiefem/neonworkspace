@@ -1,0 +1,9 @@
+2017-02-25 22:43:54,729 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @1634613ms
+2017-02-25 22:43:54,932 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2017-02-25 22:43:55,019 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@10de7f2{/help,null,AVAILABLE}
+2017-02-25 22:43:55,034 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@603051eb{HTTP/1.1,[http/1.1]}{127.0.0.1:54836}
+2017-02-25 22:43:55,035 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @1634927ms
+2017-02-25 22:50:27,198 [Thread-49] ERROR org.eclipse.jgit.util.FS - fatal: Could not switch to '/Applications/Xcode.app/Contents/Developer/usr/etc/': No such file or directory
+
+2017-02-25 23:05:43,847 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@603051eb{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2017-02-25 23:05:43,884 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@10de7f2{/help,null,UNAVAILABLE}
